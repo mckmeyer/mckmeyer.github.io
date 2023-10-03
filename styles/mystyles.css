@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(165, 194, 174);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    color: rgb(48, 69, 58);
+}
+
+a {
+    color: rgb(113, 81, 112);
+    font-size: 17px;
+    font-weight: bold; 
+}
+
+a:hover {
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 15px;
+    color: rgb(111, 24, 108);
+}
+
+.bold {
+    font-weight: bold; 
+    font-style: normal;
+    font-size: 18px;
+}
+
+.titlesize {
+    font-size: 25px;
+    position: center;
+}
+
+.color {
+    color: rgb(35, 70, 51) 
+}
+
+.sub {
+    font-size: 22px;
+}
